@@ -18,3 +18,9 @@
   <li> We do a Principal Component Analysis (PCA) to reduce the number of dimensions.</li>
   <li> We do a hierarchical clustering to categorize the data.</li>
 </p>
+<h3>Model Architecture</h3>
+<p>The following figure shows the architecture that I have used for clustering.<br>
+
+  
+  
+ </p>
