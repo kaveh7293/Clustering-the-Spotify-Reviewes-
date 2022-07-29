@@ -21,6 +21,8 @@
 <h3>Model Architecture</h3>
 <p>The following figure shows the process of converting each sequence to the vector of numbers. As shown, we convert each word in the sequence to a vector of numbers using the matrix of word embedding (I used an embedding layer from keras to do so). The numerical values of the embedding matrix was obtained from <a href='https://nlp.stanford.edu/projects/glove/'> here <a>. Since there are 61594 reviewes the corresponding matrix of the numerical data have a shape of 61594 by 100. <br>
 
-  <img src='https://github.com/kaveh7293/Clustering-the-Spotify-Reviewes-/blob/main/Screenshot%202022-07-29%20184955.jpg'>
-  
+  <img src='https://github.com/kaveh7293/Clustering-the-Spotify-Reviewes-/blob/main/Screenshot%202022-07-29%20184955.jpg'></p>
+ <h3> Dimension Reduction </h3>
+  <p> I used principal component analysis to obtain the optimal number of principal components using which a majority of the variations in the data can be explained. Based on the following figure, using 5 PCAs 85 % of the variations in the data can be explained.</p>
+  <img src='https://github.com/kaveh7293/Clustering-the-Spotify-Reviewes-/blob/main/explained_variance.png'>
  </p>
