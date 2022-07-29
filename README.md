@@ -26,3 +26,5 @@
   <p> I used principal component analysis to obtain the optimal number of principal components using which a majority of the variations in the data can be explained. Based on the following figure, using 5 PCAs 85 % of the variations in the data can be explained.</p>
   <img src='https://github.com/kaveh7293/Clustering-the-Spotify-Reviewes-/blob/main/explained_variance.png' width='600' height='400'>
  </p>
+ <h3> Cluster Analysis</h3>
+ 
