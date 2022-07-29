@@ -26,7 +26,8 @@
   <p> I used principal component analysis to obtain the optimal number of principal components using which a majority of the variations in the data can be explained. Based on the following figure, using 5 PCAs 85 % of the variations in the data can be explained.</p>
   <img src='https://github.com/kaveh7293/Clustering-the-Spotify-Reviewes-/blob/main/explained_variance.png' width='600' height='400'><br>
   Note that based on the figure, 80 % of the variations in the data can be explained by the first two pricipal components. So the plot of the projected data onto the second proncipal component vs. the first principal component could be informative:<br>
-  <img src='https://github.com/kaveh7293/Clustering-the-Spotify-Reviewes-/blob/main/download.png'>
+  <img src='https://github.com/kaveh7293/Clustering-the-Spotify-Reviewes-/blob/main/download.png'><br>
+  As shown, the data along the positive side of the first pricipal component vector seem to be different from the rest of the data. we can investigate these data by first finding the reviews corresponding to these values.
   
  </p>
  <h3> Cluster Analysis</h3>
