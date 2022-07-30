@@ -38,4 +38,7 @@ As shown, the lengths of the reviews are very small for the reviewes whose proje
  I do a k-means clustering for clustering. An elbow method was used to obtain optimal number of clusters. As shown in the following, four clusters are sufficient for the clustering.<br>
  <img src='https://github.com/kaveh7293/Clustering-the-Spotify-Reviewes-/blob/main/Number_Of_Clusters.png'><br>
  The following plot shows the projected data based on the first and second principal components: <br>
-<img src='https://github.com/kaveh7293/Clustering-the-Spotify-Reviewes-/blob/main/PC2_PC1.png'>
+<img src='https://github.com/kaveh7293/Clustering-the-Spotify-Reviewes-/blob/main/PC2_PC1.png'><br>
+
+As shown, the clusters are distributed along the first principal component (which is highly related to the reviews length). The data points corresponding to the reviewes with higher lengths are black and the data points with smaller lengths are blue. 
+
