@@ -30,6 +30,7 @@
   As shown, the data along the positive side of the first pricipal component vector seem to be different from the rest of the data (i.e., they seems to be outliers). we can investigate these data by first finding the reviews corresponding to these values. Because the outliers are along the positive side of the PC1. I plotted the distribution of the sentences lengths for all of the reviewes and the distribution of the outlier reviews. As shown in the following, the outliers are those that have very large sizes.<br>
   <img src='https://github.com/kaveh7293/Clustering-the-Spotify-Reviewes-/blob/main/download%20(2).png'>
  The following plot shows the distribution of the reviewes length which has the smallest values along the PC1:<br>
+ <img src='https://github.com/kaveh7293/Clustering-the-Spotify-Reviewes-/blob/main/download%20(3).png'>
  </p>
  <h3> Cluster Analysis</h3>
  
