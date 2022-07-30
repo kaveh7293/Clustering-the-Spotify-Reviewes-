@@ -35,4 +35,7 @@
 As shown, the lengths of the reviews are very small for the reviewes whose projected data onto the PC1 is very small. In the next section, I do a cluster analysis and I guess that the length of the reviews is an important parameter which distinguish different reviews data.
  </p>
  <h3> Cluster Analysis</h3>
+ I do a k-means clustering for clustering. An elbow method was used to obtain optimal number of clusters. As shown in the following, four clusters are sufficient for the clustering.<br>
+ <img src='https://github.com/kaveh7293/Clustering-the-Spotify-Reviewes-/blob/main/Number_Of_Clusters.png'>
+ 
  
